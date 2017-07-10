@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LXMCodeTest"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "测试cocoapods管理项目"
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'Test/**/*.{h,m}'
+  s.source_files  = 'LXMCodeTest/**/*.{h,m}'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
